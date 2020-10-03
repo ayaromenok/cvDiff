@@ -1,0 +1,3 @@
+ - X - standard X11 Window
+ - Xv  - X Window video extention
+ - GL - OpenGL/ES 
