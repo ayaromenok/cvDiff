@@ -1,0 +1,2 @@
+ - mjpeg - Motion JPEG(lower bandwidth, more computation power)
+ - video/raw - YUY2 (higher bandwidth, less computation power)
