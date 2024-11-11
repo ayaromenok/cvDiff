@@ -1,3 +1,5 @@
+#!/bin/sh
+#sudo apt install v4l-utils v4l-conf qv4l2 yavta -y
 v4l2-ctl -d /dev/video0 --list-ctrls
 #v4l2-ctl -d /dev/video0 --get-ctrl=exposure
 #v4l2-ctl -d /dev/video0 --set-ctrl=exposure=3000
